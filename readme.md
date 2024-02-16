@@ -42,3 +42,6 @@ https://kevin-scripts.tebex.io/package/5232160
 ```lua
     [`weapon_huntingrifle`] = "CLASS 3: Hunting Rifle",
 ```
+
+Credits:
+https://www.gta5-mods.com/weapons/sauer-101-hunting-rifle-animated-4k
